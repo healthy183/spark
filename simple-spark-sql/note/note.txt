@@ -1,0 +1,9 @@
+1,SimpleDataset.java
+json demo,include 'select','filter','groupBy';
+dataset create view include 'TempView' and 'GlobalTempView';
+
+
+2,JavaBeanDataSet.java
+javabean convert to dataset
+json file convert to Dataset<Person>
+
